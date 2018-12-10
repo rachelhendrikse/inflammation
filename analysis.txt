@@ -1,1 +1,3 @@
 Details of the data analysis. 
+
+Plan on cluster analysis 
